@@ -136,40 +136,29 @@ python main.py
 streamlit run app.py
 ```
 
+<img width="1690" height="1023" alt="Screenshot 2026-01-06 195432" src="https://github.com/user-attachments/assets/23fbd020-66f2-4a01-8e59-6937be9aef37" />
+
 🧪 Technologies Used
 
 Python
-
 Pandas, NumPy
-
 Scikit-learn
-
 Joblib
-
 Streamlit
-
 VS Code
 
 📈 Future Enhancements
 
 Prediction confidence visualization
-
 Feature importance graphs
-
 Map-based location selection
-
 Online deployment (Streamlit Cloud)
-
 Model comparison (XGBoost, LightGBM)
 
 🎓 Learning Outcomes
 
 Practical machine learning workflow
-
 Feature engineering & scaling
-
 Model persistence and reuse
-
 ML-to-web deployment
-
 Debugging real-world ML issues
