@@ -48,24 +48,43 @@ Given environmental and geographical features of a **30m × 30m land patch**, pr
 forest_cover_prediction/
 │
 ├── app.py # Streamlit web app
+
 ├── main.py # Model training & saving
+
 ├── requirements.txt
+
 │
+
 ├── data/
+
 │ └── train.csv
+
 │
+
 ├── models/
+
 │ ├── forest_model.pkl
+
 │ ├── scaler.pkl
+
 │ ├── feature_names.pkl
+
 │ └── feature_means.pkl
+
 │
+
 ├── src/
+
 │ ├── init.py
+
 │ ├── data_preprocessing.py
+
 │ ├── train_model.py
+
 │ └── evaluate_model.py
+
 │
+
 └── venv/
 
 
